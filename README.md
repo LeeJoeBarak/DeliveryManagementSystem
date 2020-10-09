@@ -1,6 +1,6 @@
 # DeliveryManagementSystem
 Simulation of a stock management and delivery routes optimization system for stock distribution and management in a manufacturing factory.
-practice of: 
+practice of:   
 •recursive implementation of graphs to optimize driving routes (most packages delivered in shortest distance)  
 •decoding and validating 12 digit UPC barcode given in BMP format(https://www.wikihow.com/Read-12-Digit-UPC-Barcodes), (https://electronics.howstuffworks.com/gadgets/high-tech-gadgets/upc.htm).  
 •learn Endianness (Windows platforms are considered little endian)  
